@@ -4,3 +4,5 @@ WhatsApp Messenger, or simply WhatsApp, is a cross-platform centralized messagin
 
 Check my analysis of a whatsApp group chat in the .ipynb file
 
+[Read more baout the analysis here](https://tiamiyu.medium.com/whatsapp-group-chat-analysis-2d93e3ea32a3)
+
